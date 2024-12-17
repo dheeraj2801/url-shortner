@@ -37,3 +37,6 @@ npm install
 ```
 npm run dev
 ```
+
+## Hash_ring for Consistent Hashing
+![Consistent Hashing](https://highscalability.com/content/images/2024/02/pyy2uyb-__squarespace_cacheversion-1675880389034.png)
